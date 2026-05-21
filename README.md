@@ -280,31 +280,31 @@ Every interview session is fully traced. Go to [smith.langchain.com](https://smi
 ![Setup screen empty](Screenshot/image.png)
 
 ### Setup Screen — Ready to start
-![Setup screen filled](Screenshot/Screenshot%202026-05-21%20at%2011.48.23%20PM.png)
+![Setup screen filled](Screenshot/image2.png)
 
 ### Interview — First question asked aloud (Turn 1/8)
-![First question with audio player](Screenshot/image2.png)
+![First question with audio player](Screenshot/image4.png)
 
 ### Interview — Voice recording in progress
-![Browser mic recording](Screenshot/Screenshot%202026-05-21%20at%2011.49.15%20PM.png)
+![Browser mic recording](Screenshot/image3.png)
 
 ### Interview — Score history after first answer (Turn 2/8)
-![Score history panel](Screenshot/Screenshot%202026-05-21%20at%2011.49.55%20PM.png)
+![Score history panel](Screenshot/image5.png)
 
 ### Report — Full conversation transcript
-![Full transcript](Screenshot/Screenshot%202026-05-21%20at%2011.52.16%20PM.png)
+![Full transcript](Screenshot/image6.png)
 
 ### Report — Per-question evaluations with missing topics
-![Per-question evaluations](Screenshot/Screenshot%202026-05-21%20at%2011.52.25%20PM.png)
+![Per-question evaluations](Screenshot/image7.png)
 
 ### Report — Interview complete with summary metrics
-![Interview complete header](Screenshot/Screenshot%202026-05-21%20at%2011.52.40%20PM.png)
+![Interview complete header](Screenshot/image8.png)
 
 ### Report — Communication, Strengths and Gaps
-![Strengths and gaps](Screenshot/Screenshot%202026-05-21%20at%2011.52.46%20PM.png)
+![Strengths and gaps](Screenshot/image9.png)
 
 ### Report — Hiring signal and recommended study areas
-![Hiring signal and study areas](Screenshot/Screenshot%202026-05-21%20at%2011.52.49%20PM.png)
+![Hiring signal and study areas](Screenshot/image10.png)
 
 ---
 
